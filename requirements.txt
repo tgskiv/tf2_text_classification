@@ -1,0 +1,9 @@
+# tensorflow==2.10.0
+# tensorflow-cpu==2.10.0
+tensorflow-gpu==2.10.0
+tensorflow-datasets==1.2.0
+# tensorflow-directml-plugin==0.4.0.dev230202
+numpy==1.24.3
+tensorflow-hub==0.8.0
+matplotlib==3.7.1
+protobuf==3.19.6

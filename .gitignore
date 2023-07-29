@@ -1,0 +1,6 @@
+checkpoints
+checkpointsMy
+examples
+**.pyc
+/accuracy.png
+/loss.png
